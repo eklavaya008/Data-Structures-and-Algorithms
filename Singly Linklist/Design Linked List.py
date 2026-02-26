@@ -60,3 +60,4 @@ class MyLinkedList:
                 prev = prev.next            
             prev.next = prev.next.next     
         self.size -= 1
+        
