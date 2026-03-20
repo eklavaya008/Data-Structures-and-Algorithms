@@ -26,3 +26,4 @@ def divide(self, dividend, divisor):
             quotient += multiple
 
         return -quotient if negative else quotient
+
