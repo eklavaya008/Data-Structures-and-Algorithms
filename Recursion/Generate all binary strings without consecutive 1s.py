@@ -20,3 +20,4 @@ class Solution:
 sol = Solution()
 nums = 3
 print(sol.generatebinaryString(nums))
+
